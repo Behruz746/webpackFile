@@ -1,0 +1,21 @@
+@import url('./abstracts/_normalize.css');
+@import url('./abstracts/_default.scss');
+@import url('./abstracts/_functions.scss');
+@import url('./abstracts/_mixins.scss');
+@import url('./abstracts/_varbials.scss');
+
+@import url('./components/_buttons.scss');
+
+@import url('./layout/_header.scss');
+@import url('./layout/_navigation.scss');
+@import url('./layout/_forms.scss');
+@import url('./layout/_grid.scss');
+@import url('./layout/_footer.scss');
+
+@import url('./pages/_about.scss');
+@import url('./pages/_pricing.scss');
+@import url('./pages/_solution.scss');
+@import url('./pages/_work.scss');
+@import url('./pages/_features.scss');
+
+@import url('./mobile/_mobile.scss');
